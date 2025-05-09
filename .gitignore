@@ -1,0 +1,20 @@
+
+# Operating System
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# LLM cache
+llm_cache.json
+
+# Output files
+output/
+resources/config.properties 
+
+.calva/
+.clj-kondo
+.cpcache
+.lsp
+.portal
+.nrepl-port
