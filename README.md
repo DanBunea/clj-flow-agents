@@ -59,6 +59,12 @@ The tutorial generator is designed to be used from the REPL. Open `src/use_cases
 
 The generated tutorial will be created in the `output` directory.
 
+### core.async.flow
+
+[![Core.async.flow Overview](https://img.youtube.com/vi/lXFwf3O4BVY/0.jpg)](https://www.youtube.com/watch?v=lXFwf3O4BVY)
+
+
+
 ## Example Generated Tutorial
 
 You can find an example of a generated tutorial in the `.docs/tutorial-agent` directory. This tutorial was generated for this project itself, demonstrating the capabilities of the tutorial generator. The tutorial includes:
